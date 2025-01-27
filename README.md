@@ -1,2 +1,1 @@
-# capstone-ibm
-Final Capstone Project- IBM Data Science Professional Certification 
+# Final Capstone Project- IBM Data Science Professional Certification 
